@@ -1,0 +1,6 @@
+data_ingestion:
+  test_size: 0.2
+  random_state: 42
+  raw_data_path: experiments/email.csv
+  train_data_path: data/raw/train.csv
+  test_data_path: data/raw/test.csv
